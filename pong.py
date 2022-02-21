@@ -1,4 +1,3 @@
-from turtle import right
 import pygame as pg
 
 pg.init() # Inicializa PyGame
