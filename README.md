@@ -4,6 +4,7 @@ Es el clásico juego de Pong realizado con PyGame (Python). Está hecho para fun
 ## Instrucciones para correrlo
 ```bash
 $ python3 -m venv env
+$ source env/bin/activate
 (env) $ pip install pygame
 ```
 
